@@ -1,11 +1,10 @@
 ---
-title: My Topic Group
-excerpt: first topic in my neat grouping
-permalink: /topics/my topic group/
+title: The Clever Strategies That Fishes Use to Survive in San Francisco’s Dynamic Estuary
+excerpt: Fichman R, Khen A, Willmes M, Kuntz J, Scott A, Hobbs J and Lewis L
+permalink: /Clever Strategies That Fishes Use/
 categories:
-  - topics
-  - my topic group
-date: 3006-09-22 00:00
+  - Clever Strategies That Fishes Use
+date: 2021-09-23 00:00
 ---
 
 Here we go.
