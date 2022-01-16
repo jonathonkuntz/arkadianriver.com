@@ -13,8 +13,8 @@
 # Site settings
 title: Jonathon Kuntz
 description: |
-  Sharks and Stable Isotopes  
-  PhD Student at the University of California Merced  
+  Sharks and Stable Isotopes <br />
+  PhD Student at the University of California Merced <br /> 
   California SeaGrant Fellow
 owner:
   name: Jonathon Kuntz # or company name
@@ -108,8 +108,6 @@ custom_extensions: no
 # Build settings
 permalink: /:categories/:title.html
 markdown: kramdown
-kramdown:
-  hard_wrap: true
 #sass:
 #  style: compressed
 exclude: ['site.bat','compose.rb','README.md']
