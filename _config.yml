@@ -40,11 +40,10 @@ closing-para: _Your detailed closing_
 # on all pages (and the first three you list display with greeting, if included)
 social:
   twitter: https://twitter.com/Shark_eye_sci
-  github: https://github.com/_username_
+  email: jkuntz@ucmerced.edu # you can configure and use this contact page or use your email addy
+  github: https://github.com/jonathonkuntz
   linkedin-square:
   facebook-official:
-  #google-plus-square:
-  email: /jkuntz@ucmerced.edu/ # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
   #youtube-square:
