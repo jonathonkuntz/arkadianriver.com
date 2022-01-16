@@ -30,8 +30,8 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: About Me  
+  text: I am a stable isotope ecologist interested in the life history of sharks. In 2017, I received a BSc in environmental and organismal biology from the University of Utah. I have since worked with chronological tissues of endangered and threatened species in the San Francisco Estuary, using stable isotopes to better understand movement and trophic interactions across space and time.
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
