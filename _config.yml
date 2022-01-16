@@ -108,6 +108,8 @@ custom_extensions: no
 # Build settings
 permalink: /:categories/:title.html
 markdown: kramdown
+kramdown:
+  hard_wrap: true
 #sass:
 #  style: compressed
 exclude: ['site.bat','compose.rb','README.md']
