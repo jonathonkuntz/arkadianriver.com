@@ -8,4 +8,4 @@ categories:
 date: 2021-09-23 00:00
 ---
 
-<embed src="https://jonathonkuntz.github.io/topics/Clever%20Strategies%20That%20Fishes%20Use/" type="application/pdf"/>
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/frym-09-608881.pdf" width="1000" height="1000" type="application/pdf"></object>
