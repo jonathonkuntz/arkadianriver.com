@@ -8,4 +8,4 @@ categories:
 date: 2021-09-23 00:00
 ---
 
-Here we go.
+<embed src="https://jonathonkuntz.github.io/topics/Clever%20Strategies%20That%20Fishes%20Use/" type="application/pdf"/>
