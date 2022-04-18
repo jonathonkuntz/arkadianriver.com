@@ -13,9 +13,9 @@
 # Site settings
 title: Jonathon Kuntz
 description: |
-  Sharks + Stable Isotopes<br /><br />
+  <p>Sharks + Stable Isotopes &nbsp; &nbsp;
   PhD Student at the University of California Merced<br /><br />
-  California SeaGrant Fellow
+  California SeaGrant Fellow</p>
 owner:
   name: Jonathon Kuntz # or company name
   url: "https://jonathonkuntz.github.io/" # your URL
