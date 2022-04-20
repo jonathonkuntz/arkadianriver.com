@@ -1433,23 +1433,23 @@ $baseurl: '{{ site.baseurl }}/images';
     				font-style: italic;
     				padding: 0 0 5px 0;
     				margin: 0;
-    				font-size: _font(ctrl-size-small);
-    				line-height: _font(ctrl-lheight-small);
+    				font-size: _font(ctrl-size-xsmall);
+    				line-height: _font(ctrl-lheight-xsmall);
     			}
     			.post-feature {
     				padding: 0;
     				margin: 0;
     				font-style: italic;
     				font-weight: _font(weight-bold);
-    				line-height: _font(ctrl-size-small);
+    				line-height: _font(ctrl-size-xsmall);
     			}
     			.post-title {
     				padding: 0;
     				margin: 0;
 						font-family: _font(ctrl-family);
     				font-weight: _font(weight-bold);
-    				font-size: _font(ctrl-size-small);
-    				line-height: _font(ctrl-lheight-small);
+    				font-size: _font(ctrl-size-xsmall);
+    				line-height: _font(ctrl-lheight-xsmall);
 						white-space: nowrap;
 						overflow: hidden;
 						text-overflow: ellipsis;
@@ -1458,7 +1458,7 @@ $baseurl: '{{ site.baseurl }}/images';
     				padding: 0;
     				margin: 0;
 						font-family: _font(ctrl-family);
-    				font-size: _font(ctrl-size-xsmall);
+    				font-size: _font(ctrl-size-dinky);
     				line-height: _font(ctrl-lheight-smaller);
 						white-space: nowrap;
 						overflow: hidden;
@@ -1471,7 +1471,7 @@ $baseurl: '{{ site.baseurl }}/images';
     				/* box-shadow: 1px 1px _palette($p, border2); */
     				/* width: 240px; */
 						height: 6.5em;
-    				/* line-height: _font(prose-lheight-small); */
+    				/* line-height: _font(prose-lheight-xsmall); */
     				margin: 0;
       			padding: 0.8em;
 						border-radius: 3px;
