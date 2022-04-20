@@ -37,10 +37,10 @@
 				$body.addClass('is-mobile');
 			else
 				skel
-					.on('-medium !medium', function() {
+					.on('-small !small', function() {
 						$body.removeClass('is-mobile');
 					})
-					.on('+medium', function() {
+					.on('+small', function() {
 						$body.addClass('is-mobile');
 					});
 
