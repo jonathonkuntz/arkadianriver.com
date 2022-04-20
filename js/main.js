@@ -12,7 +12,8 @@
 			large:	'(max-width: 1280px)',
 			medium:	'(max-width: 980px)',
 			small:	'(max-width: 736px)',
-			xsmall:	'(max-width: 480px)'
+			xsmall:	'(max-width: 480px)',
+			dinky:	'(max-width: 260px)',
 		});
 
 	$(function() {
@@ -37,10 +38,10 @@
 				$body.addClass('is-mobile');
 			else
 				skel
-					.on('-small !small', function() {
+					.on('-dinky !dinky', function() {
 						$body.removeClass('is-mobile');
 					})
-					.on('+small', function() {
+					.on('+dinky', function() {
 						$body.addClass('is-mobile');
 					});
 
