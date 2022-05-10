@@ -2,7 +2,7 @@
 
 # If you want to use Google analytics to monitor your site traffic,
 # register your site https://www.google.com/analytics/standard/
-google-analytics: 
+google-analytics: G-J3ZLG6JW8J
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J3ZLG6JW8J"></script>
 <script>
