@@ -16,7 +16,7 @@ description: |
   <p>Sharks + Stable Isotopes<br /></p>
   <p>PhD Student at the University of California Merced<br /></p>
   <p>California Sea Grant Fellow</p>
-owner:
+author:
   name: Jonathon Kuntz # or company name
   url: "https://jonathonkuntz.github.io/" # your URL
 first_published: 2022 # if migrating another site, the year of your first publish
