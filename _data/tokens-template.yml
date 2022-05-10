@@ -2,7 +2,16 @@
 
 # If you want to use Google analytics to monitor your site traffic,
 # register your site https://www.google.com/analytics/standard/
-google-analytics: <google-analytics tracking ID>
+google-analytics: 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J3ZLG6JW8J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J3ZLG6JW8J');
+</script>
 
 # Specify your mail form action, whether it be cgiemail, PHP, whatever
 # If you choose to use these provided scripts and you're also using a site
